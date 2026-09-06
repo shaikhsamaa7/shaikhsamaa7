@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Samaa 👋
 
-<!--
-**shaikhsamaa7/shaikhsamaa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science Engineering Student
 
-Here are some ideas to get you started:
+I'm an engineering student interested in building practical projects
+using software development, data science, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+
+- Machine Learning
+- Data Science
+- Web Development
+- DevOps
+- Git & GitHub
+
+### 🛠️ Technologies
+
+**Languages:** Python, JavaScript, HTML, CSS
+
+**Tools:** Git, GitHub, GitHub Actions, Jira
+
+### 📌 Featured Project
+
+**Smart Attendance Management System**
+
+A web-based attendance management application featuring
+attendance tracking, automated calculations, date-wise records,
+and continuous integration with GitHub Actions.
+
+### 🎯 Goals
+
+Build practical projects, strengthen my technical skills,
+and explore AI & Data Science applications.
